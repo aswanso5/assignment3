@@ -21,3 +21,19 @@ body{
 a{
     text-transform: uppercase;
 }
+.logo {
+    height: 6em;
+}
+header {
+    display: flex;
+    align-items: center;
+    background-color: #333;
+}
+header nav{
+    flex: 1;
+}
+header nav ul {
+    display: flex;
+    justify-content: flex-end;
+}
+
