@@ -1,0 +1,23 @@
+h1,
+h2 {
+    font-weight: 400;
+}
+body{
+    background-color: dimgrey;
+}
+#myheadshot{
+    width: 450px;
+}
+#imaginary{
+    width: 450px;
+    
+}
+#abbyswanson{
+    width: 400px;
+}
+#concert{
+    width:400px;
+}
+a{
+    text-transform: uppercase;
+}
